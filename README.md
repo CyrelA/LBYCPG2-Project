@@ -1,7 +1,7 @@
 # LBYCPG2-Project
 
 ## Title
-
+(Logo)
 
 ##About
 This project is made because of the love of the developers on vtubers especially HOLOLIVE. 
