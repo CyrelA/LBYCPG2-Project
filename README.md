@@ -8,7 +8,7 @@ This project is made because of the love of the developers on vtubers especially
 Most of the stuff that will be use will be on the reference or acknowledgement since the developer does not own everything that will be use especially the pictures.
 
 ## Developers
-Cyrel Ace R. Lejeta
+Cyrel Ace R. Lejeta  
 Aidan Albert Narvaez
 ## Reference/Acknowledgement
 Taggit
