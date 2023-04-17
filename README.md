@@ -13,6 +13,9 @@ Aidan Albert Narvaez
 ## Reference/Acknowledgement
 Taggit
 
+codepiep
+https://youtu.be/Y70bvbW8zso
+
 Twitter Pictures
 @minatoaqua  
 @suisei_hosimati  
@@ -50,8 +53,7 @@ Flare - @kamatoyu_ill
 @omarupolka  
 @takanelui  
 
-codepiep
-https://youtu.be/Y70bvbW8zso
+
 
 Gen 0
 https://virtualyoutuber.fandom.com/wiki/Hoshimachi_Suisei
