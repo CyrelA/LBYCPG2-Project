@@ -25,9 +25,8 @@ Windows: Windows 10 Home
 Chrome: Version 111.0.5563.149 (Official Build) (64-bit)  
 
 ## walkthrough  
-<a href="[https://youtu.be/5xwHkLPgvtQ](https://www.youtube.com/watch?v=iXG3GaHmmF4)" title="Project LBYCPG2 walkthrough">
+<a href="https://youtu.be/iXG3GaHmmF4" title="LBYCPG2 project">
   
-</a>
 
 ## Developers
 Cyrel Ace R. Lejeta  
