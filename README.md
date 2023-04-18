@@ -1,7 +1,7 @@
 # LBYCPG2-Project
 
 ## Title
-![Alt text](image link)
+![Alt text](https://github.com/CyrelA/LBYCPG2-Project/blob/main/sample%20site.png)
 
 ## About
 This project is made because of the love of the developers on vtubers especially HOLOLIVE. 
