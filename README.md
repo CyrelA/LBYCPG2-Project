@@ -28,8 +28,11 @@ Chrome: Version 111.0.5563.149 (Official Build) (64-bit)
 Cyrel Ace R. Lejeta  
 Aidan Albert Narvaez
 ## Reference/Acknowledgement
-Taggit
 
+Corey Schafer Playlist
+https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+
+Taggit
 codepiep
 https://youtu.be/Y70bvbW8zso
 
