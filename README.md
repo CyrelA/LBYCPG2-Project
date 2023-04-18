@@ -16,6 +16,14 @@ django-taggit       3.1.0
 Pillow              9.4.0  
 django              4.1.7  
 
+## Overview of trial system
+Python 3.9.13  
+Processor: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz   3.70 GHz
+Ram : 4:00 GB
+OS Build : 19045.2846
+Windows: Windows 10 Home
+Version 111.0.5563.149 (Official Build) (64-bit)
+
 ## Developers
 Cyrel Ace R. Lejeta  
 Aidan Albert Narvaez
