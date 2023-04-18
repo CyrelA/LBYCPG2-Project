@@ -7,6 +7,15 @@
 This project is made because of the love of the developers on vtubers especially HOLOLIVE. 
 Most of the stuff that will be use will be on the reference or acknowledgement since the developer does not own everything that will be use especially the pictures.
 
+## Requirements
+asgiref             3.6.0  
+crispy-bootstrap4   2022.1  
+django-crispy-forms 2.0  
+django-extensions   3.2.1  
+django-taggit       3.1.0  
+Pillow              9.4.0  
+django              4.1.7  
+
 ## Developers
 Cyrel Ace R. Lejeta  
 Aidan Albert Narvaez
