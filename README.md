@@ -1,6 +1,6 @@
 # LBYCPG2-Project
 
-## Title
+## Holo live about
 ![Alt text](https://github.com/CyrelA/LBYCPG2-Project/blob/main/sample%20site.png)
 
 ## About
