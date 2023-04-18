@@ -26,8 +26,7 @@ Chrome: Version 111.0.5563.149 (Official Build) (64-bit)
 
 ## walkthrough  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iXG3GaHmmF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
+https://youtu.be/iXG3GaHmmF4
 
 ## Developers
 Cyrel Ace R. Lejeta  
